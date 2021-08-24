@@ -1,0 +1,139 @@
+$date
+	Sat Jul 31 02:13:32 2021
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	100ps
+$end
+$scope module DFlipFlop_tb $end
+$var wire 1 ! q_inverted $end
+$var wire 1 " q $end
+$var reg 1 # a $end
+$var reg 1 $ clk $end
+$var integer 32 % i [31:0] $end
+$scope module D1 $end
+$var wire 1 # a $end
+$var wire 1 $ clk $end
+$var reg 1 " q $end
+$var reg 1 ! q_inverted $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b0 %
+0$
+1#
+0"
+1!
+$end
+#30
+0#
+b1 %
+#60
+1#
+b10 %
+#90
+0#
+b11 %
+#100
+1$
+#120
+1#
+b100 %
+#150
+0#
+b101 %
+#180
+1#
+b110 %
+#200
+0$
+#210
+0#
+b111 %
+#240
+1#
+b1000 %
+#270
+0#
+b1001 %
+#300
+0!
+1"
+1#
+b1010 %
+1$
+#330
+0#
+b1011 %
+#360
+1#
+b1100 %
+#390
+0#
+b1101 %
+#400
+0$
+#420
+1#
+b1110 %
+#450
+0#
+b1111 %
+#480
+1#
+b10000 %
+#500
+1$
+#510
+0#
+b10001 %
+#540
+1#
+b10010 %
+#570
+0#
+b10011 %
+#600
+1#
+b10100 %
+0$
+#630
+0#
+b10101 %
+#660
+1#
+b10110 %
+#690
+0#
+b10111 %
+#700
+1!
+0"
+1$
+#720
+1#
+b11000 %
+#750
+0#
+b11001 %
+#780
+1#
+b11010 %
+#800
+0$
+#810
+0#
+b11011 %
+#840
+1#
+b11100 %
+#870
+0#
+b11101 %
+#900
+b11110 %
+1$

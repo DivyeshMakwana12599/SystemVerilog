@@ -1,0 +1,51 @@
+$date
+	Fri Jul 30 02:12:48 2021
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	100ps
+$end
+$scope module tst $end
+$var wire 1 ! q_inverted $end
+$var wire 1 " q $end
+$var reg 1 # en $end
+$var reg 1 $ r $end
+$var reg 1 % s $end
+$scope module uut $end
+$var wire 1 & en $end
+$var wire 1 $ r $end
+$var wire 1 % s $end
+$var reg 1 " q $end
+$var reg 1 ! q_inverted $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+1&
+0%
+0$
+1#
+0"
+1!
+$end
+#100
+0!
+1"
+1%
+#200
+1!
+0"
+0%
+1$
+#300
+1%
+#400
+0%
+0$
+#500
+1%
+1$
+#800
